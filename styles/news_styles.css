@@ -267,6 +267,23 @@ section
 	padding: 0px !important;
 }
 
+.alert
+{
+	width: 100%;
+	background: #66e6;
+	border-radius: 6px;
+	margin: 20px auto;
+
+}
+
+.msg_error{
+	color: #e65656;
+}
+.msg_save{
+	color: #126e00;
+}
+
+
 /*********************************
 3. Header
 *********************************/

@@ -1,25 +1,7 @@
-Thanks for downloading this theme!
-
-## Other Useful Links
-
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
-
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
-
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
-
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
-
-Alternatively, here's our top most trending and selling items:
-
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
+UISaux es una aplicación web diseñada como proyecto de clase para la asignatura "Ingenieria de Software II" que brinda servicios para los estudiantes de la Universidad Industrial de Santander --UIS--, entorno a las auxiliaturas. Esta es una labor de apoyo para los estudiantes de pregrado o de posgrado de investigación en donde se pueden desempeñar en tres modalidades diferentes, como son auxiliar de docente, auxiliar de investigación y extensión, y auxiliar de administración. Donde son importantes para el estudiantado por la sencilla razón de que son incentivos económicos y profesionales para el desarrollo de la persona. 
+  
+Para que la universidad pueda ofrecer una auxiliatura se necesita que, quien requiere esta labor de apoyo (puede ser un profesor, o una unidad académico-administrativa), solicite una autorización a la universidad para que esta le gire el presupuesto necesario para pagar dicho servicio; esto en el caso de que no cuente con presupuesto propio dentro de la universidad para este pago. Al contrario, si cuenta con este presupuesto, puede ofrecer la auxiliatura según lo requiera. 
+ 
+La plataforma brinda un sistema donde los interesados dentro de la Universidad Industrial de Santander podrán dar a conocer las auxiliaturas que hayan sido aprobadas y que se encuentren disponibles para el estudiantado. De la misma forma, el estudiante puede postularse a estas, si cumple con las condiciones mínimas requeridas, como el promedio ponderado, el número de semestres cursados, el valor de la matrícula. Para validar esta información, la plataforma se debe asociar con el sistema de admisiones. Sin embargo, para ofrecer una auxiliatura debe ser validada por un ejecutor, ya que debe tener un aval para su funcionamiento.
 
 
